@@ -7,7 +7,9 @@ public class Run {
 		C_Variable c = new C_Variable();
 		//c.output();
 		D_Variable d = new D_Variable();
-		d.inputVariable();
+		//d.inputVariable();
+		E_Variable e = new E_Variable();
+		e.overflowVariable();
 	}
 
 }
