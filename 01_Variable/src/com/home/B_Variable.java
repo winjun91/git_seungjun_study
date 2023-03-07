@@ -1,6 +1,6 @@
 package com.home;
 
-public class Variable2 {
+public class B_Variable {
 	public static void main(String[] args) {
 		String name = "Ja" + "Va";
 		String str = name + 8.0;

@@ -1,6 +1,6 @@
 package com.home;
 
-public class Variable1 {
+public class A_Variable {
 	public static void main(String args[]) {
 		System.out.println("Hello, world");
 		System.out.print("Hello");
