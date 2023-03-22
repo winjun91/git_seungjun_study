@@ -11,5 +11,11 @@ public class F_Operator {
 		byte c = (byte)(a * b);
 		System.out.println(c);
 	}
-
+	public void operator8() {
+		int a = 1_000_000;
+		int b = 2_000_000;
+		
+		long c = a*b;
+		System.out.println(c);
+	}
 }
