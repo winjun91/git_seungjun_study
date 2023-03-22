@@ -14,6 +14,7 @@ public class Run {
 			f.operator6();
 			f.operator7();
 			f.operator8();
+			f.operator9();
 	}
 
 }
