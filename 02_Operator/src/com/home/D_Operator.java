@@ -7,7 +7,19 @@ public class D_Operator {
 		int score = (int) d;
 		System.out.println("score=" + score);
 		System.out.println("d=" + d);
+		operator5();
 	}
 
-	public void 
+	public static void operator5() {
+		int a = 10;
+		int b = 4;
+		
+		System.out.printf("%d + %d = %d%n", a, b, a + b);
+		System.out.printf("%d - %d = %d%n", a, b, a - b);
+		System.out.printf("%d * %d = %d%n", a, b, a * b);
+		System.out.printf("%d / %d = %d%n", a, b, a / b);
+		System.out.printf("%d / %f = %f%n", a, (float)b, a / (float)b);
+		
+	}
+		
 }
