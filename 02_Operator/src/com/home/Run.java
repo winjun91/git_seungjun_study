@@ -7,6 +7,7 @@ public class Run {
 			a.operator1();
 		B_Operator b = new B_Operator();
 			b.operator2();
+			b.operator3();
 	}
 
 }
