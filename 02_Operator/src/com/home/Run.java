@@ -12,6 +12,8 @@ public class Run {
 			//c.operator4();
 		F_Operator f = new F_Operator();
 			f.operator6();
+			f.operator7();
+			f.operator8();
 	}
 
 }
