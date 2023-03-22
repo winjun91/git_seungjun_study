@@ -8,9 +8,9 @@ public class D_Operator {
 		System.out.println("score=" + score);
 		System.out.println("d=" + d);
 		operator5();
-	}
+	
 
-	public static void operator5() {
+	public void operator5() {
 		int a = 10;
 		int b = 4;
 		
