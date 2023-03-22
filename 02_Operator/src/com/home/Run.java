@@ -9,7 +9,9 @@ public class Run {
 			//b.operator2();
 			//b.operator3();
 		C_Operator c = new C_Operator();
-			c.operator4();
+			//c.operator4();
+		F_Operator f = new F_Operator();
+			f.operator6();
 	}
 
 }
