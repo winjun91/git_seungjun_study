@@ -10,6 +10,7 @@ public class Run {
 		//d.inputVariable();
 		E_Variable e = new E_Variable();
 		e.overflowVariable();
+		e.overflowVariable();
 	}
 
 }
